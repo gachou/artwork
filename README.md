@@ -10,3 +10,12 @@ Spaces are inserted around the camera to take into account the cropping performe
 in their display.
 
 The logo has been created and converted to png with `inkscape` version 0.9.1.
+
+# Requirements
+
+In order to build the artwork from its SVG files, you need
+
+* `gnu-make`
+* `imagemagick`
+
+It probably doesn't run on Windows, sorry.

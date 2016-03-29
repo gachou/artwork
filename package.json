@@ -1,0 +1,17 @@
+{
+  "name": "warau-artwork",
+  "version": "0.0.1",
+  "description": "Artwork for the warau-project",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:warau-js/artwork.git"
+  },
+  "author": "Nils Knappmeier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warau-js/artwork/issues"
+  },
+  "homepage": "https://github.com/warau-js/artwork#readme"
+}
