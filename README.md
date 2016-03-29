@@ -9,4 +9,4 @@ Around the kanji, there are three rounded rectangles that should roughly look li
 Spaces are inserted around the camera to take into account the cropping performed by services like TravisCI 
 in their display.
 
-The logo has been created and converted to png with `inkscape`.
+The logo has been created and converted to png with `inkscape` version 0.9.1.
