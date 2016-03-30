@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81.657" height="49.866" viewBox="0 0 81.657363 49.865707">
+    <path d="M5.957.376H75.7c3.092 0 5.581 2.56 5.581 5.74V43.75c0 3.18-2.49 5.74-5.581 5.74H5.957c-3.091 0-5.58-2.56-5.58-5.74V6.117c0-3.18 2.489-5.74 5.58-5.74z"
+          fill="#00994c" fill-rule="evenodd" stroke="#000" stroke-width=".75275112" stroke-linecap="round" stroke-linejoin="round" />
+    <text y="467.117" x="160.067" style="line-height:100%;-inkscape-font-specification:'Corporate Logo Bold, ';text-align:center" font-weight="400"
+          font-size="16.077" font-family="Corporate Logo Bold" letter-spacing="0" word-spacing="0" text-anchor="middle"
+          transform="matrix(.79572 0 0 .79572 -116.78 -346.4)">
+        <tspan y="467.117" x="160.067">笑</tspan>
+        <tspan y="483.194" x="160.067">う</tspan>
+    </text>
+    <path d="M64.342 24.235c0 9.217-7.471 16.688-16.688 16.688-9.216 0-16.687-7.471-16.687-16.688 0-9.216 7.471-16.687 16.687-16.687 9.217 0 16.688 7.471 16.688 16.687zm-3.928 0c0 7.048-5.712 12.76-12.76 12.76-7.047 0-12.76-5.712-12.76-12.76 0-7.047 5.713-12.76 12.76-12.76s12.76 5.713 12.76 12.76zM6.184 3.533h9.291c1.593 0 2.875 1.454 2.875 3.26V7.7c0 1.806-1.282 3.26-2.875 3.26H6.184c-1.593 0-2.875-1.454-2.875-3.26v-.907c0-1.806 1.282-3.26 2.875-3.26z"
+          fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width=".75275112" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

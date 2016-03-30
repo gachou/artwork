@@ -1,9 +1,16 @@
-all: dist/favicon.ico dist/warau-logo.png Makefile
+export PATH := m./node_modules/.bin:$(PATH)
 
-dist/favicon.ico: src/warau-logo.svg
-	mkdir -p dist
-	convert -background none $< -resize 32x32 $@
 	
-dist/warau-logo.png: src/warau-logo.svg Makefile
+all: dist/favicon.ico dist/warau-logo.png dist/warau-logo.svg
+
+dist: 
 	mkdir -p dist
-	convert -background none $< -resize 200x200 $@
+
+dist/favicon.ico: svg/warau-logo.svg dist Makefile
+	svgexport $< $@ 32:
+	
+dist/warau-logo.png: svg/warau-logo.svg dist Makefile
+	svgexport $< $@ 100:100 pad
+	
+dist/warau-logo.svg: src/warau-logo.svg dist Makefile
+	svgo --input=$< --output=$@
