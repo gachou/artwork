@@ -1,4 +1,4 @@
-export PATH := m./node_modules/.bin:$(PATH)
+export PATH := ./node_modules/.bin:$(PATH)
 
 	
 all: dist/favicon.ico dist/warau-logo.png dist/warau-logo.svg
@@ -6,11 +6,11 @@ all: dist/favicon.ico dist/warau-logo.png dist/warau-logo.svg
 dist: 
 	mkdir -p dist
 
-dist/favicon.ico: svg/warau-logo.svg dist Makefile
-	svgexport $< $@ 32:
+dist/favicon.ico: svg/favicon.svg dist Makefile
+	svgexport $< $@
 	
 dist/warau-logo.png: svg/warau-logo.svg dist Makefile
-	svgexport $< $@ 100:100 pad
+	svgexport $< $@ -20:-20:140:140 
 	
-dist/warau-logo.svg: src/warau-logo.svg dist Makefile
+dist/warau-logo.svg: svg/warau-logo.svg dist Makefile
 	svgo --input=$< --output=$@
