@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
      inkscape:cx="9.7839396"
-     inkscape:cy="39.162634"
+     inkscape:cy="8.8580579"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,20 +62,16 @@
        height="31"
        width="31"
        id="rect3375"
-       style="opacity:1;fill:#b3e6cc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       id="g3423"
-       transform="matrix(0.74085952,0,0,0.83366861,-8.5698527,189.81361)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4826"
-         d="m 16.60435,1015.6813 a 1.6255908,1.6248195 0 0 0 -1.667328,1.8836 c 0.966043,6.5369 5.599688,11.9506 11.911336,13.9162 6.311648,1.9657 13.20225,0.1404 17.712086,-4.6912 a 1.6255908,1.6248195 0 1 0 -2.377183,-2.216 c -3.662896,3.9241 -9.240936,5.4004 -14.367266,3.8039 -5.12633,-1.5965 -8.877782,-5.9783 -9.662412,-11.2876 a 1.6255908,1.6248195 0 0 0 -1.549233,-1.4089 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00994c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.27243423;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4833"
-         d="m 33.030319,1015.6081 -1.140041,-3.5475 q 1.414946,-0.385 2.938988,-1.0562 l -5.038881,-2.6528 q -0.522523,3.2126 -0.77365,4.7997 l -3.773924,-0.6113 q 0.368083,-1.9677 0.981102,-6.0658 l -1.112466,-0.5857 q -3.196242,2.0997 -6.379877,3.2237 l -0.887601,-3.7093 q 5.865527,-2.1682 10.000196,-6.52469 l 2.743656,2.32859 q -0.735754,0.8407 -2.041612,1.9707 l 8.409039,4.4269 -1.661582,3.1532 q 4.254251,-1.8866 6.934781,-4.356 l 2.743648,2.3285 q -0.768217,0.8236 -2.192732,1.9403 l 8.409022,4.4269 -1.864212,3.5378 -5.333345,-2.8077 q -0.394644,2.4939 -0.594277,3.666 l -3.773941,-0.6113 q 0.692443,-3.6144 0.834465,-4.9151 l -1.50512,-0.7923 q -2.945288,1.5442 -5.921636,2.4334 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Corporate Logo Medium';-inkscape-font-specification:'Corporate Logo Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00994c;fill-opacity:1;stroke:#000000;stroke-width:1.27243423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+       style="opacity:1;fill:#233369;fill-opacity:1;fill-rule:evenodd;stroke:#233369;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eed78f;fill-opacity:1;fill-rule:evenodd;stroke:#eed78f;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 3.7316381,1036.5552 a 1.2043344,1.354561 0 0 0 -1.2352559,1.5703 c 0.7157022,5.4496 4.1485822,9.9629 8.8246268,11.6015 4.676044,1.6388 9.781013,0.1171 13.122167,-3.9109 a 1.2043344,1.354561 0 1 0 -1.761158,-1.8474 c -2.713692,3.2714 -6.846236,4.5022 -10.644126,3.1712 -3.7978904,-1.331 -6.5771893,-4.9839 -7.1584899,-9.4101 a 1.2043344,1.354561 0 0 0 -1.147764,-1.1746 z"
+       id="path4826"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Corporate Logo Medium';-inkscape-font-specification:'Corporate Logo Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eed78f;fill-opacity:1;stroke:#eed78f;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.900974,1036.4942 -0.844611,-2.9574 q 1.048277,-0.321 2.177378,-0.8806 l -3.733103,-2.2115 q -0.387117,2.6782 -0.573166,4.0013 l -2.795948,-0.5096 q 0.272698,-1.6404 0.726859,-5.0568 l -0.824181,-0.4883 q -2.3679664,1.7504 -4.7265927,2.6875 l -0.6575877,-3.0924 q 4.3455315,-1.8075 7.4087404,-5.4394 l 2.032664,1.9413 q -0.545091,0.7009 -1.512548,1.6429 l 6.229917,3.6906 -1.230999,2.6287 q 3.151802,-1.5728 5.137698,-3.6315 l 2.032658,1.9412 q -0.569141,0.6866 -1.624506,1.6176 l 6.229904,3.6906 -1.38112,2.9493 -3.951259,-2.3407 q -0.292376,2.0791 -0.440276,3.0563 l -2.79596,-0.5097 q 0.513003,-3.0132 0.618221,-4.0975 l -1.115082,-0.6605 q -2.182045,1.2873 -4.3871,2.0286 z"
+       id="path4833"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

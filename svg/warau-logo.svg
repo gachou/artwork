@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="104.27049"
-     inkscape:cy="57.140797"
+     inkscape:zoom="3.959798"
+     inkscape:cx="116.78862"
+     inkscape:cy="48.250426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,14 +58,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#00994c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#dfe0e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3336"
        width="100"
        height="100"
        x="0"
        y="0"
-       ry="3.181818"
-       rx="3.1818197" />
+       ry="0"
+       rx="0" />
     <rect
        ry="2"
        rx="2"
@@ -74,10 +74,10 @@
        height="80"
        width="90"
        id="rect3338"
-       style="opacity:1;fill:#b3e6cc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#233269;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path4833"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Corporate Logo Medium';-inkscape-font-specification:'Corporate Logo Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00994c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Corporate Logo Medium';-inkscape-font-specification:'Corporate Logo Medium, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eed78f;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 49.909455,43.451708 47.7327,36.093773 q 2.701648,-0.798421 5.6116,-2.190812 l -9.621059,-5.502046 q -0.997687,6.663294 -1.47718,9.9551 l -7.205796,-1.267982 q 0.702807,-4.081136 1.873281,-12.581395 l -2.124102,-1.214706 q -6.102789,4.355127 -12.181509,6.68636 L 20.913181,22.284698 Q 32.112609,17.787558 40.007197,8.7515511 l 5.238639,4.8297659 q -1.404822,1.743773 -3.898179,4.087637 l 16.055916,9.181927 -3.172564,6.54028 q 8.122913,-3.913104 13.241022,-9.03506 l 5.238625,4.829747 q -1.466807,1.708255 -4.186725,4.024469 l 16.055886,9.18195 -3.559461,7.33787 -10.183299,-5.823554 q -0.753517,5.172768 -1.13469,7.603801 l -7.205828,-1.267995 q 1.322125,-7.496616 1.593298,-10.194363 l -2.873822,-1.643454 q -5.623627,3.20281 -11.30656,5.047136 z m -31.363158,0.151997 a 3.1038449,3.3701033 0 0 0 -3.183536,3.90682 c 1.844528,13.558357 10.691843,24.787171 22.743079,28.864156 12.051235,4.076994 25.207905,0.291043 33.818822,-9.730206 A 3.1038449,3.3701033 0 1 0 67.385755,62.047914 C 60.391951,70.187157 49.741442,73.249227 39.95341,69.937897 30.165379,66.626579 23.002492,57.538034 21.504346,46.525918 a 3.1038449,3.3701033 0 0 0 -2.958049,-2.922213 z"
        inkscape:connector-curvature="0" />
   </g>
