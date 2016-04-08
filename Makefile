@@ -1,16 +1,16 @@
 export PATH := ./node_modules/.bin:$(PATH)
 
 	
-all: dist/favicon.ico dist/warau-logo.png dist/warau-logo.svg
+all: dist/favicon.ico dist/gachou-logo.png dist/gachou-logo.svg
 
 dist: 
 	mkdir -p dist
 
 dist/favicon.ico: svg/favicon.svg dist Makefile
-	svgexport $< $@
+	inkscape $@ --export-png=$< 
 	
-dist/warau-logo.png: svg/warau-logo.svg dist Makefile
-	svgexport $< $@ -20:-20:140:140 
+dist/gachou-logo.png: svg/gachou-logo.svg dist Makefile
+	svgexport $@ --export-png=$< 
 	
-dist/warau-logo.svg: svg/warau-logo.svg dist Makefile
+dist/gachou-logo.svg: svg/gachou-logo.svg dist Makefile
 	svgo --input=$< --output=$@

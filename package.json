@@ -1,20 +1,20 @@
 {
-  "name": "warau-artwork",
+  "name": "gachou-artwork",
   "version": "0.0.1",
   "description": "Artwork for the warau-project",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:warau-js/artwork.git"
+    "url": "git@github.com:gachou/artwork.git"
   },
   "author": "Nils Knappmeier",
   "private": "true",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/warau-js/artwork/issues"
+    "url": "https://github.com/gachou/artwork/issues"
   },
-  "homepage": "https://github.com/warau-js/artwork#readme",
+  "homepage": "https://github.com/gachou/artwork#readme",
   "dependencies": {
     "optipng-bin": "^3.1.0",
     "svgexport": "^0.3.0",
